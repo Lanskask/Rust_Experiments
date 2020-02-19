@@ -1,6 +1,6 @@
 # My Rust Experiments
 
-[CMakeRust](git@github.com:Devolutions/CMakeRust.git)
+[CMakeRust](https://github.com:Devolutions/CMakeRust.git)
 
 [Rocket](https://github.com/SergioBenitez/Rocket)
 
